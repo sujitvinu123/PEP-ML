@@ -12,9 +12,7 @@ RESEARCH PAPERS:-
 I GOT THE REFERENCE IMAGE FROM THE BASE PAPER TO REMOVE THE WASTE FROM THE WATER BODIES USING CONVEYER BELT
 
 [!alt text][def]
-[def]: image.png
-
-![alt text](image-1.png)
+[def]: 1.png
 
 
 I GOING TO USE THIS DATASET AAS THE DATSET ARE AVAIBLE MORE I GOING TO USE BASE DATASET AS(7.01GB)- https://zenodo.org/records/6412647/files/zerowaste-f-final.zip?download=1
