@@ -13,10 +13,10 @@ def train_model_2_scratch():
     print("Initializing YOLO11s-seg from scratch (untrained architecture)...")
     model = YOLO("yolo11s-seg.yaml")
 
-    # Start training for 30 epochs
+    # Start training for 15 epochs
     results = model.train(
         data=r"E:\PML\data.yaml",
-        epochs=30,
+        epochs=15,
         imgsz=640,
         batch=4,
         device=0,
