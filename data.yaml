@@ -1,0 +1,16 @@
+# ZeroWaste-f Dataset Configuration for YOLO11-seg
+# Dataset: ZeroWaste-f (CVPR 2022)
+# Official splits converted to YOLO segmentation format
+
+path: E:/PML/data/processed/zerowaste_yolo
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+
+names:
+  0: rigid_plastic
+  1: cardboard
+  2: metal
+  3: soft_plastic
